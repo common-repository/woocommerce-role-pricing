@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-21 08:12+0200\n"
+"PO-Revision-Date: 2023-06-21 08:13+0200\n"
+"Last-Translator: eggemplo <eggemplo@gmail.com>\n"
+"Language-Team: eggemplo <info@eggemplo.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../woocommerce-role-pricing.php:74
+msgid ""
+"The <strong>Woocommerce Role Pricing Light</strong> plugin requires the <a "
+"href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+"target=\"_blank\">Woocommerce</a> plugin to be activated."
+msgstr ""
+"El plugin <strong>Woocommerce Role Pricing Light</strong> requiere el plugin "
+"<a href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+"target=\"_blank\">Woocommerce</a> para ser activado."
+
+#: ../woocommerce-role-pricing.php:118 ../woocommerce-role-pricing.php:119
+msgid "Role Pricing"
+msgstr "Role Pricing"
+
+#: ../woocommerce-role-pricing.php:131
+msgid "Method"
+msgstr "Método"
+
+#: ../woocommerce-role-pricing.php:132
+msgid "Roles"
+msgstr "Roles"
+
+#: ../woocommerce-role-pricing.php:167
+msgid "Saved Roles subsection"
+msgstr "Sección Roles guardada"
+
+#: ../woocommerce-role-pricing.php:186
+msgid "Saved Method subsection"
+msgstr "Sección Método guardada"
+
+#: ../woocommerce-role-pricing.php:200
+msgid "Woocommerce Role Pricing"
+msgstr "Woocommerce Role Pricing"
+
+#: ../woocommerce-role-pricing.php:236
+msgid "Products discount method:"
+msgstr "Método de descuento:"
+
+#: ../woocommerce-role-pricing.php:242 ../woocommerce-role-pricing.php:247
+msgid "Rate"
+msgstr "Ratio"
+
+#: ../woocommerce-role-pricing.php:243 ../woocommerce-role-pricing.php:248
+msgid "Amount"
+msgstr "Cantidad"
+
+#: ../woocommerce-role-pricing.php:257
+msgid "If it's on sale, apply to:"
+msgstr ""
+
+#: ../woocommerce-role-pricing.php:263 ../woocommerce-role-pricing.php:268
+msgid "Regular price"
+msgstr "Precio regular"
+
+#: ../woocommerce-role-pricing.php:264 ../woocommerce-role-pricing.php:269
+msgid "Sale price"
+msgstr "Precio en oferta"
+
+#: ../woocommerce-role-pricing.php:275
+msgid ""
+"If you select <b>Sale Price</b> then if the product has a sale price then "
+"discount is applied over this sale price. But if it doesn't, then the "
+"discount is applied on the regular price."
+msgstr ""
+"Si selecciona <b>Precio en oferta</b>, y el producto está en oferta, "
+"entonces se aplicará el descuento sobre el precio en oferta. Sino, se "
+"aplicará sobre el precio normal, esté o no en oferta."
+
+#: ../woocommerce-role-pricing.php:280
+msgid "Your values are:"
+msgstr "Tus valores son:"
+
+#: ../woocommerce-role-pricing.php:287 ../woocommerce-role-pricing.php:294
+msgid "Discounts"
+msgstr "Descuentos"
+
+#: ../woocommerce-role-pricing.php:288 ../woocommerce-role-pricing.php:295
+msgid "Amounts"
+msgstr "Cantidades"
+
+#: ../woocommerce-role-pricing.php:302
+#, no-php-format
+msgid ""
+"If you select <b>Discounts</b> and your value is 0.1, then the group will "
+"see 90% of the original price."
+msgstr ""
+"Si selecciona <b>Descuentos</b>, y establece un valor de 0.1, entonces los "
+"usuarios verán un 90% del precio original."
+
+#: ../woocommerce-role-pricing.php:304
+#, no-php-format
+msgid ""
+"If you select <b>Final values</b> and your value is 0.1, then the group will "
+"see 10% of the original price."
+msgstr ""
+"Si selecciona <b>Valores finales</b>, y establece un valor de 0.1, entonces "
+"los usuarios verán un 10% del precio original."
+
+#: ../woocommerce-role-pricing.php:308
+msgid "Hide prices:"
+msgstr "Ocultar precios:"
+
+#: ../woocommerce-role-pricing.php:318
+msgid "Hide price and \"add to cart\" button for unregistered users."
+msgstr ""
+"Oculta el precio y la opción de “añadir al carro” para usuarios no "
+"registrados."
+
+#: ../woocommerce-role-pricing.php:327
+msgid "Get the Pro version"
+msgstr "Consigue la versión PRO"
+
+#: ../woocommerce-role-pricing.php:335 ../woocommerce-role-pricing.php:382
+msgid "Save"
+msgstr "Guardar"
+
+#: ../woocommerce-role-pricing.php:357
+msgid "Roles:"
+msgstr "Roles:"
+
+#: ../woocommerce-role-pricing.php:358
+#, no-php-format
+msgid ""
+"Leave empty if no role discount should be applied (default setting)."
+"<br>Example with rate method: Indicate 0.1 for 10% discounts on every "
+"product."
+msgstr ""
+"Déjelo vacío si no quiere aplicar descuentos para un role.<br>Ejemplo con "
+"Ratio como método: Indique 0.1 para un 10% de descuento."
+
+#: ../woocommerce-role-pricing.php:363
+msgid "User not logged in"
+msgstr ""
+
+#~ msgid "Apply to:"
+#~ msgstr "Aplicar a:"
+
+#~ msgid "You have set:"
+#~ msgstr "Ha puesto:"
+
+#~ msgid "Role Pricing Light"
+#~ msgstr "Role Pricing Light"
+
+#~ msgid "Woocommerce Role Pricing Light"
+#~ msgstr "Woocommerce Role Pricing Light"
+
+#~ msgid "Saved"
+#~ msgstr "Guardado"
+
+#~ msgid ""
+#~ "The <strong>Woocommerce Role Pricing</strong> plugin requires the <a "
+#~ "href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+#~ "target=\"_blank\">Woocommerce</a> plugin to be activated."
+#~ msgstr ""
+#~ "The <strong>Woocommerce Role Pricing</strong> plugin requires the <a "
+#~ "href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+#~ "target=\"_blank\">Woocommerce</a> plugin to be activated."
+
+#~ msgid ""
+#~ "The <strong>Woocommerce Group Pricing</strong> plugin requires the <a "
+#~ "href=\"http://wordpress.org/extend/plugins/groups\" "
+#~ "target=\"_blank\">Groups</a> plugin to be activated."
+#~ msgstr ""
+#~ "El plugin <strong>Woocommerce Group Pricing</strong> requiere <a "
+#~ "href=\"http://wordpress.org/extend/plugins/groups\" "
+#~ "target=\"_blank\">Groups</a> para funcionar."
+
+#~ msgid "Groups:"
+#~ msgstr "Grupos:"
+
+#~ msgid "eShop2MailChimp"
+#~ msgstr "eShop2MailChimp"
+
+#~ msgid "eShop 2 MailChimp"
+#~ msgstr "eShop 2 MailChimp"
+
+#~ msgid "API Key:"
+#~ msgstr "API Key:"
+
+#~ msgid ""
+#~ "MailChimp API KEY. You can get it in MailChimp: Account -> API Keys & "
+#~ "Authorized Apps "
+#~ msgstr ""
+#~ "API KEY de Mailchimp. Puede conseguirla dentro de tu cuenta de Mailchimp: "
+#~ "Mi cuenta -> API Keys"
+
+#~ msgid "List name:"
+#~ msgstr "Nombre de la lista:"
+
+#~ msgid "Subgroups name:"
+#~ msgstr "Nombre de los subgrupos:"
+
+#~ msgid "Comma separated subgroups."
+#~ msgstr "Subgrupos separados por comas."
+
+#~ msgid "Opt-in"
+#~ msgstr "Opt-in"
+
+#~ msgid "Signup form title:"
+#~ msgstr "Título del formulario:"
+
+#~ msgid "Newsletter"
+#~ msgstr "Boletín de noticias"
+
+#~ msgid "Signup form text:"
+#~ msgstr "Texto del formulario:"
+
+#~ msgid "Subscribe me to newsletter."
+#~ msgstr "Suscríbeme al boletín de noticias."
+
+#~ msgid "Opt-in confirmation email:"
+#~ msgstr "Opt-in email de confirmación:"
+
+#~ msgid "YES"
+#~ msgstr "SI"
+
+#~ msgid "NO"
+#~ msgstr "NO"
+
+#~ msgid ""
+#~ "Control whether a double opt-in confirmation message is sent. Abusing "
+#~ "this may cause your mailchimp account to be suspended."
+#~ msgstr ""
+#~ "Un mensaje de confirmación será enviado a los usuarios. Si abusa de no "
+#~ "usar confirmaciones, su cuenta de mailchimp puede ser suspendida por "
+#~ "considerarle spam."
+
+#~ msgid "Subscribed"
+#~ msgstr "Suscrito"
+
+#~ msgid "Not subscribed"
+#~ msgstr "No suscrito"
+
+#~ msgid "Groups to MailChimp"
+#~ msgstr "Groups to MailChimp"
+
+#~ msgid "Need confirm:"
+#~ msgstr "Necesita confirmación:"
+
+#~ msgid "Synchronize"
+#~ msgstr "Sincronizar"
+
+#~ msgid ""
+#~ "Use this for synchronize existing users in website with mailchimp. If the "
+#~ "user has not subscribed, then he will not be synchronized."
+#~ msgstr ""
+#~ "Úsalo para sincronizar los usuarios ya existentes con Mailchimp. Si el "
+#~ "usuario no se ha suscrito, entonces no será sincronizado."
+
+#~ msgid "Subscribe me to newsletter"
+#~ msgstr "Suscríbeme al boletín de noticias"
+
+#~ msgid "Use roles as subgroups:"
+#~ msgstr "Usar roles como subgrupos:"
+
+#~ msgid ""
+#~ "Creates as many subgroups as there are roles (if checked, \"Subgroup "
+#~ "name\" is ignored)."
+#~ msgstr ""
+#~ "Crea tantos subgrupos como roles tienen los usuarios (la opción de "
+#~ "\"Nombre del subgrupo\" será ignorada)."
